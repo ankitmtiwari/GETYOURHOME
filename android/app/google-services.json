@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055640350715",
+    "project_id": "get-your-home-ff138",
+    "storage_bucket": "get-your-home-ff138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055640350715:android:6b0b0d6d08f0d09ebae55e",
+        "android_client_info": {
+          "package_name": "com.candy.get_your_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055640350715-hb0n4gvnri3p84fmir8m055oc65mkh0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candy.get_your_home",
+            "certificate_hash": "ed8ad8f4857d434503db695dfcfe8d5de3643233"
+          }
+        },
+        {
+          "client_id": "1055640350715-kvh1cvtqk7hfbhea8i790dj5ajnqebtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candy.get_your_home",
+            "certificate_hash": "9b8694958395f5e7aea59c2500e4eb08fef903b1"
+          }
+        },
+        {
+          "client_id": "1055640350715-30ssfj3gdk6ia233esaa8g7qenu5cgs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YCZ6pTf3kGsbQKsCgNqDWFCJGrNDmoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055640350715-30ssfj3gdk6ia233esaa8g7qenu5cgs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
